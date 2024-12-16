@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#big-box {
+    max-width: 1920px;
+    padding: 226px 158px;
+}
+
+#box-container {
+    padding: 96px;
+    background: #1B0E0F;
+}
+
+#box {
+    padding: var(--spacing-9xl, 96px) 0px;
+    background: #FFF;
+}
+
+.blog {
+    color: #002AFE;
+    text-align: center;
+}
+
+.and {
+    color: #181D27;
+    margin-top: 12px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+}
+
+.latest {
+    color: #535862;
+
+    text-align: center;
+    /* Text xl/Regular */
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-xl, 20px);
+    margin-top: 24px;
+}
+
+.foto1 {
+    border-radius: 16px;
+    background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+    max-width: 600px;
+}
+
+.img-box {
+    margin-top: 56px;
+    margin-left: 56px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.text-box {
+    max-width: 594px;
+    vertical-align: middle;
+    display: inline-block;
+    margin-left: 96px;
+}
+
+.Design {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    max-width: 584px;
+}
+
+.makes {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    display: inline-block;
+    max-width: 544px;
+}
+
+.box-box {
+    margin-top: 24px;
+}
+
+.profil {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.Craig {
+
+    display: block;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-sm, 14px);
+    color: #181D27;
+}
+
+.Jan {
+    vertical-align: middle;
+    color: #535862;
+    display: inline-block;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-sm, 14px);
+}
+
+.Natali {
+    display: inline-block;
+    margin-left: 8px;
+    vertical-align: middle;
+}
+
+.Avatar1 {
+    display: inline-block;
+
+}
+#kutxe3 {
+    margin-left: 106px;
+}
+#kutxe {
+    margin-left: 106px;
+}
+#kutxe1 {
+    margin-left: 106px;
+}
+#paragraf {
+    max-width: 584px;
+} 
+#our {
+    max-width: 584px;
+}
+#designs {
+    max-width: 619px;
+}
